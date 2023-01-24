@@ -5,7 +5,7 @@ class PalindromeExample{
   bye hgyhhs
   temp=n;    
   while(n>0){    
-   r=n%10;  //getting remainder  
+   r=n%10;  //getting remainder sandeep changes  
    sum=(sum*10)+r;    
    n=n/10;    
   }    
