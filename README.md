@@ -1,11 +1,10 @@
 class PalindromeExample{  
  public static void main(String args[]){  
   int r,sum=0,temp;    
-  int n=454;//It is the number variable to be checked for palindrome  
-  bye hgyhhs
+  int h = 1232;
   temp=n;    
   while(n>0){    
-   r=n%10;  //getting remainder  
+   r=n%10;  //getting remainder sandeep changes  
    sum=(sum*10)+r;    
    n=n/10;    
   }    
@@ -15,3 +14,4 @@ class PalindromeExample{
    System.out.println("not palindrome");    
 }  
 }  
+new edits to sandeep
